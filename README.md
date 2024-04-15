@@ -3,7 +3,7 @@ Resource for Application Development (R.A.D.)
 
 This project will develop an online platform that offers insights and real-world examples of modern technologies in application development, empowering users to enhance their practical skills.
 
-## Contribution Guidelines:
+### Contribution Guidelines:
 
 Container Creation: Contributors are required to independently create and submit their own containers. Each container must encapsulate the contributor's project or code.
 
